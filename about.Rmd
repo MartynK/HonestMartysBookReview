@@ -1,0 +1,11 @@
+---
+title: "About this blog"
+description: |
+  I've compiled this blog first as a proof-of-concept (because I can) and second to make a notebook to catalog/chronicle the (mostly sci-fy) books I read 
+  
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

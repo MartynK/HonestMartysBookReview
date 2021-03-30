@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "I've compiled this blog first as a proof-of-concept (because I can) and second to make a notebook to catalog/chronicle the (mostly sci-fy) books I read \n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-03-30T19:47:43+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Honest Martys Book Reviews",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-03-30T19:47:44+02:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

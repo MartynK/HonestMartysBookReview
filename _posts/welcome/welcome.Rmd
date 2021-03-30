@@ -1,0 +1,26 @@
+---
+title: "Welcome to Honest Martys Book Reviews"
+description: |
+  Welcome to our new blog, Honest Martys Book Reviews. We hope you enjoy 
+  reading what we have to say!
+author:
+  - name: Honest Marty 
+    url: https://smbc.com/
+    affiliation: Nerd
+    affiliation_url: https://smbc.com
+date: 03-30-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+
