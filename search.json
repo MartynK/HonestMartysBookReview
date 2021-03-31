@@ -6,7 +6,7 @@
       "description": "I've compiled this blog first as a proof-of-concept (because I can) and second to make a notebook to catalog/chronicle the (mostly sci-fy) books I read \n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-03-30T20:05:32+02:00"
+      "last_modified": "2021-03-31T08:34:34+02:00"
     },
     {
       "path": "Article1.html",
@@ -20,14 +20,14 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-03-30T20:05:32+02:00"
+      "last_modified": "2021-03-31T08:34:34+02:00"
     },
     {
       "path": "index.html",
       "title": "Honest Martys Book Reviews",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-03-30T20:05:33+02:00"
+      "last_modified": "2021-03-31T08:34:34+02:00"
     }
   ],
   "collections": ["posts/posts.json"]

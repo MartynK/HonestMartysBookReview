@@ -1,19 +1,36 @@
 [
   {
+    "path": "posts/2021-03-31-ex1/",
+    "title": "ex1",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Honest Marty",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-03-31",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-03-31T08:33:39+02:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Honest Martys Book Reviews",
     "description": "Welcome to our new blog, Honest Martys Book Reviews. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Honest Marty",
+        "url": "https://smbc.com/"
       }
     ],
     "date": "2021-03-30",
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-03-30T13:03:20+02:00",
+    "last_modified": "2021-03-31T08:34:25+02:00",
     "input_file": {}
   }
 ]
